@@ -1,0 +1,20 @@
+.option{
+    text-align: right;
+    margin: 10px;
+}
+#value{
+    text-align: auto;
+    margin: 10px;
+}
+header{
+    text-align: center;
+    background-color: #00796b;
+    color: white;
+}
+body{
+    margin-top: 0;
+}
+#output{
+    margin-left: 3%;
+    margin-top: 3%;
+}
